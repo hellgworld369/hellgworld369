@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hellgworld369
-- 👀 I’m interested in related to IoT projects
-- 🌱 I’m currently learning C++ and WebDev
-- 💞️ I’m looking to collaborate on project related with IoT
+- 👋 Hi, I’m Subham Kumar 
+- 🎓 I'm currently pursuing my B.tech in Electronics and Communication Engineering
+- 🌱 I’m currently learning C/C++ and WebDev
+- 💞️ I’m looking to collaborate on project related with Embedded System and IoT and also looking myself forward into this field
 - 📫 You can reach me through email- hellogworld7@gmail.com
 
 <!---
